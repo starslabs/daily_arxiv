@@ -1,9 +1,9 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 3
 cache_url = "https://starslabs.github.io/daily_arxiv/cache.json"
 
 [[sources]]
-limit = 150
+limit = 100
 category = "cs.CL"
 title = "Computation and Language"
 
