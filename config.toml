@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "Daily Paper from Arxiv"
 limit_days = 3
 cache_url = "https://starslabs.github.io/daily_arxiv/cache.json"
 
